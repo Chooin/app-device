@@ -1,0 +1,12 @@
+{
+  "name": "app-device",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Chooin/app-device.git",
+  "author": "zhuning <chooin@126.com>",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "lib"
+  ]
+}
